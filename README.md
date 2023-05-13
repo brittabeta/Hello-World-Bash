@@ -1,2 +1,2 @@
-# Hello-World-Bash
+# Linux-Bash
 Bash Scripting 101 Revisited
